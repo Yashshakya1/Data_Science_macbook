@@ -1,0 +1,5 @@
+SHOW DATABASES;
+use STUDENT;
+SHOW tables;
+DESCRIBE user;
+SELECT * FROM user;
